@@ -1,7 +1,7 @@
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboseo%2Fhit-counter&count_bg=%23222420&title_bg=%23FFCECE&icon=iheartradio.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
 <img src="https://github.com/user-attachments/assets/37148abf-6ea8-4e7a-83b5-196d5b7591ea" width="1200px" height="400"/>
 <br><br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboseo%2Fhit-counter&count_bg=%23222420&title_bg=%23FFCECE&icon=iheartradio.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
+
 
 <!-- 
 <img src="https://github.com/user-attachments/assets/1fb22258-1d14-48c5-908b-f8cc01619298" width="1200px" height="400"/>
