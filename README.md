@@ -21,7 +21,10 @@
 </p><br><br>
 
 <h3 align="center"><b>💻 Studying 💻</b></h3>
-<p align="center"></p><br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p><br><br>
 
 
 <h3 align="center"><b>🛠 Tools 🛠</b></h3>
