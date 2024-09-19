@@ -1,8 +1,7 @@
 
 
-
 -- 헤더 
-<img src="https://blog.naver.com/aimable19/221628984858?photoView=3"/>
+<video class="mp4conv" autoplay="" autobuffer="" loop="" muted="" playsinline="" width="500" height="372"><source src="https://3.gall-img.com/tdgall/files/attach/images/82/158/176/185/827ffeb6a865d10035af85c09f9eb068.gif.mp4" type="video/mp4"></video>
 
 
 
