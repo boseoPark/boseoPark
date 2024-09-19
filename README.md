@@ -8,7 +8,7 @@
 
 
 
--- Skills
+-- Tech Stack 
 
 
 -- language 
@@ -25,3 +25,26 @@
 -- db 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+
+
+
+-- Studying 
+
+
+
+-- Tools 
+- git
+- github
+- figma
+- vscode
+- intellij
+
+
+-- Contact 
+
+
+
+
+-- Github stats 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
