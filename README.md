@@ -47,4 +47,4 @@
 
 -- Github stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boseo&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boseo&show_icons=true&theme=omni)
