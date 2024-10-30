@@ -39,10 +39,7 @@
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 </p><br><br>
 
-<h3 align="center"><b>🎖️ stats 🎖️</b></h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boseoPark&show_icons=true&theme=omni" alt="Anurag's GitHub stats" />
-</div><br><br>
+
 
 <h3 align="center"><b>💌 Contact 💌</b></h3>
 <p align="center">
